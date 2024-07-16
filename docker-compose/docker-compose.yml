@@ -1,0 +1,13 @@
+services:
+  nexus3:
+    image: jasonlws/nexus3:3.70.1-java8-ubi
+    container_name: nexus3
+    volumes:
+      - nexus-data:/nexus-data
+    ports:
+      - 8081:8081 # nexus
+      - 5000:5000 # docker-group
+      - 5001:5001 # docker-hosted
+      - 5002:5002 # docker-proxy
+volumes:
+  nexus-data:
