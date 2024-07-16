@@ -33,15 +33,15 @@ Nexus Repository supports the repository formats listed below.
 
 ### Docker
 
-Please refer to [docker](https://github.com/jasonlws/sonatype-nexus/tree/docker) folder.
+Please refer to [docker](https://github.com/jasonlws/sonatype-nexus/tree/master/docker) folder.
 
 ### Docker Compose
 
-Please refer to [docker-compose](https://github.com/jasonlws/sonatype-nexus/tree/docker-compose) folder.
+Please refer to [docker-compose](https://github.com/jasonlws/sonatype-nexus/tree/master/docker-compose) folder.
 
 ### Vagrant
 
-Please refer to [vagrant](https://github.com/jasonlws/sonatype-nexus/tree/docker-compose) folder.
+Please refer to [vagrant](https://github.com/jasonlws/sonatype-nexus/tree/master/vagrant) folder.
 
 ## License
 
